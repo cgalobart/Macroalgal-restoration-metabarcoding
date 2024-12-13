@@ -20,3 +20,5 @@ Large brown macroalgal forests support diverse communities of associated inverte
 
 # Script authors
 Cristina Galobart (cgalobart@ceab.csic.es; cgalobart@gmail.com), with support of Jesús Zarcero and Adrià Antich
+
+DISCLAIMER: This script has been developed by an ecologist, not a professional programmer, so please take into account that there may be room for code optimization. Positive feedback is always welcome and appreciated!
